@@ -1,5 +1,15 @@
 # Báo cáo môn học Công Nghệ.Net
-Nội dung:
+# Lời cảm ơn
+Kính gửi thầy Đỗ Duy Cốp
+Trước khi đến với phần nội dung của báo cáo, em muốn dành một chút thời gian để bày tỏ sự biết ơn của em đến với thầy ạ!
+em xin tự giới thiệu về bản thân, em tên là : Đinh Nguyễn Hoàng Vũ, sinh viên lớp K57KMT, theo dự kiến thì khoảng một năm nữa là khoá của bọn em sẽ được ra trường, tuy là vậy nhưng khi bước vào năm thứ 4 thì em tự nhận thấy rằng bản thân vẫn rất mông lung với những gì mình đã học, cũng như chưa tìm ra được cho mình một hướng đi cụ thể nào cả. Cho đến khi được học tập và làm việc với thầy thông qua môn công nghệ. net này, được học hỏi những bài học, kinh nghiệm quý giá mà thầy chia sẻ qua những tiết học. em tự thấy bản thân đã có sự trưởng thành hơn trong sự tư duy mình, đã bắt đầu nghiêm túc hơn về học tập cũng như công việc...
+Em thật sự biết ơn sâu sắc về sự chỉ bảo và dạy dỗ của thầy, người đã tận tình hướng dẫn em trong suốt quá trình học tập. Thầy đã dành nhiều thời gian quý báu để hỗ trợ, chỉ dẫn chi tiết và góp ý.
+Cuối cùng, em muốn bày tỏ lòng biết ơn đến thầy Đỗ Duy Cốp một lần nữa, Chúc thầy có sức khoẻ cũng như ngày càng thành công hơn trong công việc.
+
+Em xin chân thành cảm ơn!
+ 
+
+# Nội dung:
 •	Trình bày (liệt kê) các bước thực hiện tạo web giám sát thời gian thực.
 
 Dưới đây là danh sách các bước thực hiện để tạo web giám sát thời gian thực:
