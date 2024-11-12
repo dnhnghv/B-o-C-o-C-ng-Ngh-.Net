@@ -66,7 +66,7 @@ Dưới đây là quy trình các bước chi tiết để hoàn thành yêu c�
 14. Thiết kế giao diện Webform: Thêm một Webform (`default.aspx`) và tạo layout phù hợp từ Toolbox.
 15. Thêm sự kiện xử lý: Đặt sự kiện `onClick` cho các nút để xử lý input.
 16. Viết mã xử lý trong `default.aspx.cs: Viết mã để lấy dữ liệu từ Webform, xử lý bằng DLL và xuất kết quả lên giao diện Web.
-
+### link : https://github.com/dnhnghv/btvncongnghe.net
 
 ## Bài 2:
 1. Thiết lập Cơ sở Dữ liệu (SQL Server)
@@ -99,7 +99,7 @@ Dưới đây là quy trình các bước chi tiết để hoàn thành yêu c�
 9. Thống kê và Báo cáo
 •	Thêm một bảng thống kê trên giao diện để hiển thị lịch sử thay đổi vị trí của từng thành viên.
 •	Tạo báo cáo với thời gian tất cả thành viên có mặt tại trường.
-
+### link : https://github.com/dnhnghv/web_giamsatsvk57kmt
 
 ## Bài 3: Tạo Mã Caprcha
 Dưới đây là các bước để thực hiện yêu cầu:
@@ -133,4 +133,4 @@ Dưới đây là các bước để thực hiện yêu cầu:
 - Xác thực text CAPTCHA nhập vào với text lưu trong Session khi người dùng gửi form login.
 - Sử dụng các thư viện jQuery và jQuery-Confirm để hỗ trợ viết mã JavaScript cho client-side validation.
 
-•	Kèm link github mỗi bài.
+### link : [dnhnghv/Captcha (github.com)](https://github.com/dnhnghv/Captcha)
