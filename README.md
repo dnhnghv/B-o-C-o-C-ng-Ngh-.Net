@@ -1,13 +1,6 @@
 # Báo cáo môn học Công Nghệ.Net
 Nội dung:
 •	Trình bày (liệt kê) các bước thực hiện tạo web giám sát thời gian thực.
-- Gợi ý:
-•	Trên CSDL dùng để lưu trữ cần làm các bước gì? (lưu ý phần SP trả về json thì làm như nào?)
-•	Phần cứng (ko cần làm trong báo cáo này) nhưng tác động gì tới CSDL?
-•	Các bước để tạo DLL độc lập có tương tác với CSDL?
-•	Các bước để tạo API trên asp dot net giúp giao tiếp bằng json giữa server và client.
-•	Sử dụng trang HTML + CSS + Jquery + Jquery-ui + Jquery-confirm : để hiển thị kết quả giao tiếp với API. (sử dụng class và id của thẻ html như nào? Dùng class và id này trong css ra sao? Jquery gửi/nhận json như nào? Jquery-ui dùng để làm gì? Jquery-confirm để hiển thị các dialog ra sao? …)
-
 
 Dưới đây là danh sách các bước thực hiện để tạo web giám sát thời gian thực:
 
